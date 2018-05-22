@@ -1,4 +1,4 @@
-# Logic
+# Logic Bot
 
 I have the levelModel fully tested and working and a few other tests. I spent a little bit of time trying to get
 the text display working in a seperate test scene and also used an editor window, for somthing different. The original
